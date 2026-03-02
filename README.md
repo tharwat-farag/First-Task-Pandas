@@ -1,2 +1,3 @@
 # First-Task-Pandas
-this ripo as first
+
+This repo is my first task using Pandas.
